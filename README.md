@@ -10,7 +10,7 @@
     
   | Repo | Description |
   |------|-------------|
-  | [`monaco-editor-vue3`](https://github.com/lascyb/monaco‑editor‑vue3) | 基于 Vue 3 的 Monaco Editor 封装组件，支持差异编辑器、语言包等功能。 |
+  | [`monaco-editor-vue3`](https://github.com/lascyb/monaco-editor-vue3) | 基于 Vue 3 的 Monaco Editor 封装组件，支持差异编辑器、语言包等功能。 |
   | [`tagkit`](https://github.com/lascyb/tagkit) | Go 语言结构体标签解析工具包，方便进行结构化处理。 |
   | [`struct-to-graphql`](https://github.com/lascyb/struct-to-graphql) | 将 Go 结构体自动转换为 GraphQL 查询字符串的工具。 |
   | [`tools`](https://github.com/lascyb/tools)   | 一个前端工具集，用于提高开发效率和简化开发过程。 |
